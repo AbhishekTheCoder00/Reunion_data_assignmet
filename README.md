@@ -26,4 +26,4 @@ For the details of Problem 4, you can view the Jupyter Notebook [here](https://g
 
 For the details of the Problem 5 Python code, you can view the Jupyter Notebook [here](https://github.com/AbhishekTheCoder00/Reunion_data_assignmet/blob/main/Reunion%20task%205%20python.ipynb).
 
-For the details of the Problem 5 SQL Query, you can view the Jupyter Notebook [here](https://github.com/AbhishekTheCoder00/Reunion_data_assignmet/blob/main/Reunion%20problem%205%20sql.sql)
+For the details of the Problem 5 SQL Query, you can view the SQL Worksheet [here](https://github.com/AbhishekTheCoder00/Reunion_data_assignmet/blob/main/Reunion%20problem%205%20sql.sql)
